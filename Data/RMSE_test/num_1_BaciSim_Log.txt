@@ -1,0 +1,12 @@
+	nodes	start	end	len	descendants	status
+0	[]	0	111	111	[]	clonal
+1	[6]	111	315	204	['']	recom
+2	[]	315	1158	843	[]	clonal
+3	[6]	1158	1678	520	['']	recom
+4	[]	1678	2155	477	[]	clonal
+5	[9]	2155	2777	622	['']	recom
+6	[]	2777	3252	475	[]	clonal
+7	[1]	3252	3634	382	['']	recom
+8	[]	3634	4500	866	[]	clonal
+9	[6]	4500	4797	297	['']	recom
+10	[]	4797	5000	203	[]	clonal
