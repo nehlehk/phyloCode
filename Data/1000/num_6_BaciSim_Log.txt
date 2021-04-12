@@ -1,0 +1,4 @@
+	nodes	start	end	len	descendants	status
+0	[]	0	133	133	[]	clonal
+1	[5]	133	600	467	['']	recom
+2	[]	600	1000	400	[]	clonal
